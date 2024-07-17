@@ -1,0 +1,6 @@
+[mariadb-auth]
+enabled = true
+port = 3306
+logpath = %(mysql_log)s
+backend = %(mysql_backend)s
+

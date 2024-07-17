@@ -1,0 +1,4 @@
+[DEFAULT]
+backend = systemd
+banaction = nftables-multiport
+banaction_allports = nftables-allports
